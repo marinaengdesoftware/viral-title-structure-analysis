@@ -4,6 +4,10 @@ Este projeto explora a estrutura invisível de títulos virais em plataformas co
 
 O objetivo é identificar padrões recorrentes de atenção utilizados em títulos que apresentam alta taxa de clique (CTR).
 
+Eu estudo padrões estruturais de atenção em conteúdo digital.
+
+No GitHub eu organizo análises de engenharia reversa de títulos, thumbnails e narrativa para identificar padrões recorrentes de retenção e clique.
+
 A análise considera:
 
 - gatilhos psicológicos
